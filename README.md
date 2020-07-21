@@ -3,6 +3,7 @@
 DoomGuyFace client mod for Half-Life & AG
 
 This client is fully workable with Adrenaline Gamer Mod
+
 Put all files/folders from this archive into "valve"/"ag" directory, agree the replace if needed, then just play
 
 Available console commands:
